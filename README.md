@@ -7,6 +7,10 @@
 
 This project aims to simplify and guide the way, beginners can make their first contribution towards open-source. If you are looking to make your first contribution, follow the steps below.
 
+## Sign-up for Hacktoberfest
+
+To participate in Hacktoberfest, signup on [Hacktoberfest Website](http://hacktoberfest.com) using your GitHub or GitLab account.
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
