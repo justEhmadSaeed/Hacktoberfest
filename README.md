@@ -60,8 +60,13 @@ git switch -c add-ehmad-saeed
 
 ## Make your changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Now, save the file.
+Now open `Contributors.md` file in a text editor, add your name and GitHub profile URL to it. Now, save the file.
 
+For example:
+
+```
+- [Your Good Name](https://github.com/ehmadsaeed)
+```
 If you go to the project directory and execute the command `git status`, you'll see there are some changes.
 
 Add those changes to the branch you just created using the `git add` command:
