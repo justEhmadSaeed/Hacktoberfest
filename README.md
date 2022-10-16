@@ -15,8 +15,12 @@ To participate in Hacktoberfest, signup on [Hacktoberfest Website](http://hackto
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the fork button on the top of this page or you can just simply [click here](https://github.com/justEhmadSaeed/Hacktoberfest/fork).
 This will create a copy of this repository in your account.
+
+## Install Git
+Install git and setup in your computer. Download and install it from [here](https://git-scm.com/downloads).
+Or you can make changings on the GitHub too.
 
 ## Clone the repository
 
@@ -25,10 +29,10 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone "url you just copied"
+git clone url_you_just_copied
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where `url_you_just_copied` is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 For example:
 
