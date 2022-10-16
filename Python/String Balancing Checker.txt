@@ -1,0 +1,40 @@
+from collections import deque
+class stack:
+  def __init__(self):
+    self.container=deque()
+  def top(self):
+    return self.container[-1]
+  def pop(self):
+    return self.container.pop()
+  def traverse(self):
+    l=len(self.container)
+    o=0
+    while o<l:
+      print(self.container[o])
+      o+=1
+  def check_string(self,strg):
+    
+    l=len(strg)
+    for x in range(0,l):
+      if strg[x] in '[{(':
+        self.container.append(strg[x])
+      elif strg[x] in ']})':
+        tp=self.top()
+        if tp=='{' and strg[x]=='}':
+          self.container.pop()
+        elif tp=='[' and strg[x]==']':
+          self.container.pop()
+        elif tp=='(' and strg[x] ==')':
+          self.container.pop()
+  def is_empty(self):
+    return len(self.container)
+
+if __name__=='__main__':
+   obj=stack()
+   print('Taking input form user :')
+   inpt=input('Enter string:')
+   obj.check_string(inpt)
+   if obj.is_empty()==0:
+      print('Entered experssion ', inpt,' is correct.')
+   else:
+     print('Entered experssion ', inpt,' is False.')
