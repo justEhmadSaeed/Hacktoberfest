@@ -15,8 +15,12 @@ To participate in Hacktoberfest, signup on [Hacktoberfest Website](http://hackto
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the fork button on the top of this page or you can just simply [click here](https://github.com/justEhmadSaeed/Hacktoberfest/fork).
 This will create a copy of this repository in your account.
+
+## Install Git
+Install git and setup in your computer. Download and install it from [here](https://git-scm.com/downloads).
+Or you can make changings on the GitHub too.
 
 ## Clone the repository
 
@@ -25,10 +29,10 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone "url you just copied"
+git clone url_you_just_copied
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where `url_you_just_copied` is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 For example:
 
@@ -60,8 +64,13 @@ git switch -c add-ehmad-saeed
 
 ## Make your changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Now, save the file.
+Now open `Contributors.md` file in a text editor, add your name and GitHub profile URL to it. Now, save the file.
 
+For example:
+
+```
+- [Your Good Name](https://github.com/ehmadsaeed)
+```
 If you go to the project directory and execute the command `git status`, you'll see there are some changes.
 
 Add those changes to the branch you just created using the `git add` command:
