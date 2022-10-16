@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>Hacktoberfest</h1>
-	<p><b><i>Let's Contribute To Open-source</i></b></p>
+	
+  ![Desktop BG 4K Dark Mode-min-2](https://user-images.githubusercontent.com/56268280/196051892-d8987115-6d1c-4add-883e-cbb5ae4a73b2.png)
+	
+  <p><b><i>Let's Contribute To Open-source</i></b></p>
 </div>
 
 # First Contributions
