@@ -6,4 +6,5 @@
 - [Ahmad Saeed](https://github.com/ehmadsaeed)
 - [Huraira Imtiaz ](https://github.com/HurairaImtiaz)
 - [Muhammad Immad](https://github.com/itsimmad)
+- [Lever Manx](https://github.com/levermanx)
 - [Moeed Irfan](https://github.com/hmoeedirfan)
