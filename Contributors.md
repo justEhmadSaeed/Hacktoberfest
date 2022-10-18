@@ -11,3 +11,4 @@
 - [Nurshat Fateh Ali](https://github.com/nurshatfateh)
 - [Desai Hardik](https://github.com/imhardikdesai)
 - [LAIBA AKRAM](https://github.com/Laiba-Akram)
+- [Muhammad Ashar Khan](https://github.com/M-ASHaR)
