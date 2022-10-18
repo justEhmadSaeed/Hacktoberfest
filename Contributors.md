@@ -8,3 +8,4 @@
 - [Muhammad Immad](https://github.com/itsimmad)
 - [Lever Manx](https://github.com/levermanx)
 - [Moeed Irfan](https://github.com/hmoeedirfan)
+-[Misbah Aziz](linkedin.com/in/misbah-aziz-2aa9b0218)
