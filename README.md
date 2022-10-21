@@ -13,7 +13,21 @@ This project aims to simplify and guide the way, beginners can make their first 
 
 To participate in Hacktoberfest, signup on [Hacktoberfest Website](http://hacktoberfest.com) using your GitHub or GitLab account.
 
+
+
 ## Fork this repository
+
+### Tip : Complete this process in GitHub (in your browser)
+
+```mermaid
+flowchart LR
+    Fork[Fork the project]-->branch[Create a New Branch]
+    branch-->Edit[Edit file]
+    Edit-->commit[Commit the changes]
+    commit -->|Finally|creatpr((Create a Pull Request))
+    
+ ```
+
 
 Fork this repository by clicking on the fork button on the top of this page or you can just simply [click here](https://github.com/justEhmadSaeed/Hacktoberfest/fork).
 This will create a copy of this repository in your account.
@@ -109,6 +123,14 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 Now you can search for `beginner-friendly` and `good first issue` tags on GitHub and contribute to those projects.
 
 Happy coding! 🎉
+
+## Awesome contributors :star_struck:
+
+<a href="https://github.com/justEhmadSaeed/Hacktoberfest/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=justEhmadSaeed/Hacktoberfest" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
 
 ## 🔑 License & Conduct
 
