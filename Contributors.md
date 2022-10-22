@@ -13,3 +13,4 @@
 - [LAIBA AKRAM](https://github.com/Laiba-Akram)
 - [Muhammad Ashar Khan](https://github.com/M-ASHaR)
 - [Muhammad Huzaifa Khan](https://github.com/Huzaifa-crypton)
+- [Haseeb Ahmad Siddiqui](https://github.com/hasebsiddiqui)
