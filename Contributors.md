@@ -18,3 +18,4 @@
 - [Muhammad Mobeen](https://github.com/muhammad-mobeen)
 - [DawoodNizmai](https://github.com/DawoodNizami)
 - [Hamna Qaseem](https://github.com/Hamna12)
+- [Hiza Tariq](https://github.com/BSEF19M505)
