@@ -1,6 +1,7 @@
 # Contributors
 
 - [Ehmad Saeed](https://github.com/justEhmadSaeed)
+- [Hamza Waseem](https://github.com/Humza-Waseem)
 - [Mahrukh khan](https://github.com/Suga7772)
 - [Salimakarimi](https://github.com/SalimaKarimi)
 - [Ahmad Saeed](https://github.com/ehmadsaeed)
