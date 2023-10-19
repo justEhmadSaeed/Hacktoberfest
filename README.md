@@ -1,7 +1,7 @@
 <div align="center">
 	
-  ![Desktop BG 4K Dark Mode-min-2](https://user-images.githubusercontent.com/56268280/196051892-d8987115-6d1c-4add-883e-cbb5ae4a73b2.png)
-	
+  ![Desktop BG 4K Dark Mode-min-2](https://github.com/justEhmadSaeed/Hacktoberfest/assets/46846821/9813ccef-dd05-415d-a8c3-55ffe7338ec2)
+
   <p><b><i>Let's Contribute To Open-source</i></b></p>
 </div>
 
@@ -13,8 +13,6 @@ This project aims to simplify and guide the way, beginners can make their first 
 
 To participate in Hacktoberfest, signup on [Hacktoberfest Website](http://hacktoberfest.com) using your GitHub or GitLab account.
 
-
-
 ## Fork this repository
 
 ### Tip : Complete this process in GitHub (in your browser)
@@ -25,14 +23,14 @@ flowchart LR
     branch-->Edit[Edit file]
     Edit-->commit[Commit the changes]
     commit -->|Finally|creatpr((Create a Pull Request))
-    
- ```
 
+```
 
 Fork this repository by clicking on the fork button on the top of this page or you can just simply [click here](https://github.com/justEhmadSaeed/Hacktoberfest/fork).
 This will create a copy of this repository in your account.
 
 ## Install Git
+
 Install git and setup in your computer. Download and install it from [here](https://git-scm.com/downloads).
 Or you can make changings on the GitHub too.
 
@@ -85,6 +83,7 @@ For example:
 ```
 - [Your Good Name](https://github.com/ehmadsaeed)
 ```
+
 If you go to the project directory and execute the command `git status`, you'll see there are some changes.
 
 Add those changes to the branch you just created using the `git add` command:
@@ -134,5 +133,5 @@ Made with [contributors-img](https://contributors-img.web.app).
 
 ## 🔑 License & Conduct
 
-- MIT © [Ehmad Saeed](https://github.com/justEhmadSaeed)
-- [Code of Conduct](https://github.com/justEhmadSaeed/Hacktoberfest/blob/main/CODE_OF_CONDUCT.md)
+-   MIT © [Ehmad Saeed](https://github.com/justEhmadSaeed)
+-   [Code of Conduct](https://github.com/justEhmadSaeed/Hacktoberfest/blob/main/CODE_OF_CONDUCT.md)
