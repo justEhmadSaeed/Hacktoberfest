@@ -1,3 +1,6 @@
+🚨 NOTE: This repo is not accepting more PRs as it has been excluded from the hacktoberfest event.
+To keep contributing, you can find other repos or contribute to one of my repos [here](https://github.com/justEhmadSaeed).
+Best of luck!
 <div align="center">
 	
   ![Desktop BG 4K Dark Mode-min-2](https://github.com/justEhmadSaeed/Hacktoberfest/assets/46846821/9813ccef-dd05-415d-a8c3-55ffe7338ec2)
